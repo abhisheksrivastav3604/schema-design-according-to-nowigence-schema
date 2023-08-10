@@ -1,0 +1,1 @@
+# schema-design-according-to-nowigence-schema
